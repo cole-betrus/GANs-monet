@@ -1,0 +1,1 @@
+This project attempts to use GANs to generate monets. The project is composed of the Deliverable1.ipynb file, which contains all the exploration and analysis, and a Deliverable3.png file containing the score for the submission. The notebook contains headers indicating each section. The cells have been run already, allowing you to easily view the output.
